@@ -29,5 +29,5 @@ It's a simple library app to keep track of all books you read or read.
 
 ## 🌄Screenshots
 
-![App Screenshot](library/Images/ui.png)
+![App Screenshot](library/Images/screenshot.png)
 
