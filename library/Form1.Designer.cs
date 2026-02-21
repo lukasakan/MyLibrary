@@ -52,7 +52,7 @@
             // 
             // dataGridView1
             // 
-            this.dataGridView1.BackgroundColor = System.Drawing.Color.RosyBrown;
+            this.dataGridView1.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(207)))), ((int)(((byte)(180)))));
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(0, -1);
             this.dataGridView1.Name = "dataGridView1";
@@ -63,6 +63,7 @@
             // 
             // textBox1
             // 
+            this.textBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(207)))), ((int)(((byte)(180)))));
             this.textBox1.Location = new System.Drawing.Point(71, 310);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 26);
@@ -91,6 +92,7 @@
             // 
             // textBox2
             // 
+            this.textBox2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(207)))), ((int)(((byte)(180)))));
             this.textBox2.Location = new System.Drawing.Point(237, 310);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(100, 26);
@@ -108,6 +110,7 @@
             // 
             // textBox3
             // 
+            this.textBox3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(207)))), ((int)(((byte)(180)))));
             this.textBox3.Location = new System.Drawing.Point(401, 310);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(59, 26);
@@ -142,6 +145,7 @@
             // 
             // textBox4
             // 
+            this.textBox4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(207)))), ((int)(((byte)(180)))));
             this.textBox4.Location = new System.Drawing.Point(538, 310);
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(59, 26);
@@ -166,8 +170,8 @@
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.Color.RosyBrown;
-            this.button1.ForeColor = System.Drawing.SystemColors.Window;
+            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(207)))), ((int)(((byte)(180)))));
+            this.button1.ForeColor = System.Drawing.Color.Black;
             this.button1.Location = new System.Drawing.Point(16, 400);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(92, 36);
@@ -178,8 +182,8 @@
             // 
             // button2
             // 
-            this.button2.BackColor = System.Drawing.Color.RosyBrown;
-            this.button2.ForeColor = System.Drawing.SystemColors.Window;
+            this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(207)))), ((int)(((byte)(180)))));
+            this.button2.ForeColor = System.Drawing.Color.Black;
             this.button2.Location = new System.Drawing.Point(139, 400);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(92, 36);
@@ -190,7 +194,8 @@
             // 
             // button3
             // 
-            this.button3.BackColor = System.Drawing.Color.RosyBrown;
+            this.button3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(207)))), ((int)(((byte)(180)))));
+            this.button3.ForeColor = System.Drawing.Color.Black;
             this.button3.Location = new System.Drawing.Point(387, 400);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(92, 36);
@@ -222,6 +227,7 @@
             // 
             // textBox5
             // 
+            this.textBox5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(207)))), ((int)(((byte)(180)))));
             this.textBox5.Location = new System.Drawing.Point(266, 405);
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(100, 26);
@@ -231,7 +237,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(78)))), ((int)(((byte)(53)))), ((int)(((byte)(36)))));
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(86)))), ((int)(((byte)(50)))), ((int)(((byte)(50)))));
             this.ClientSize = new System.Drawing.Size(1022, 488);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.textBox5);

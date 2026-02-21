@@ -15,7 +15,7 @@ namespace library
     
     public partial class Form1 : Form
     {
-        string connections = "Server=Your_server_name;Database=Mylibrary;Integrated Security=True";//input name of your server instead of Your_server_name
+        string connections = "Server=DESKTOP-S630PSO;Database=Mylibrary;Integrated Security=True";//input name of your server instead of Your_server_name
         public Form1()
         {
             InitializeComponent();
